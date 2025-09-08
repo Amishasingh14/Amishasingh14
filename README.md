@@ -32,7 +32,9 @@
 
 ### 🌊 Smart Flood Monitoring & Alerting System  
 <p align="center">
-  <img src="https://github.com/Amishasingh14/Amishasingh14/assets/flood-demo.gif" width="500" />
+  <a href="https://github.com/Amishasingh14/flood-monitoring" target="_blank">
+    <img src="https://github.com/Amishasingh14/Amishasingh14/assets/YOUR_FLOOD_GIF.gif" width="500" />
+  </a>
 </p>
 
 - IoT sensors + ML model → *85% accurate flood prediction*  
@@ -43,7 +45,9 @@
 
 ### 😷 Temperature & Mask Detection System  
 <p align="center">
-  <img src="https://github.com/Amishasingh14/Amishasingh14/assets/mask-demo.gif" width="500" />
+  <a href="https://github.com/Amishasingh14/mask-detection" target="_blank">
+    <img src="https://github.com/Amishasingh14/Amishasingh14/assets/YOUR_MASK_GIF.gif" width="500" />
+  </a>
 </p>
 
 - Thermal sensor + OpenCV for mask detection  
@@ -54,7 +58,9 @@
 
 ### 🎮 Simon Game (Web)  
 <p align="center">
-  <img src="https://github.com/Amishasingh14/Amishasingh14/assets/simon-demo.gif" width="500" />
+  <a href="https://github.com/Amishasingh14/simon-game" target="_blank">
+    <img src="https://github.com/Amishasingh14/Amishasingh14/assets/YOUR_SIMON_GIF.gif" width="500" />
+  </a>
 </p>
 
 - Browser-based memory game with sound & animations  
