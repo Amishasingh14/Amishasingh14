@@ -32,8 +32,8 @@
 
 ### 🌊 Smart Flood Monitoring & Alerting System  
 <p align="center">
-  <a href="https://github.com/Amishasingh14/flood-monitoring" target="_blank">
-    <img src="https://github.com/Amishasingh14/Amishasingh14/assets/YOUR_FLOOD_GIF.gif" width="500" />
+  <a href="https://www.boltiot.com/hs-fs/hubfs/Projects%20images%20and%20videos/IoT%20Based%20Flood%20Monitoring%20And%20Alerting%20System/Connecting%20LM35%20Temperature%20Sensor.png" target="_blank">
+    <img src="https://www.boltiot.com/hs-fs/hubfs/Projects%20images%20and%20videos/IoT%20Based%20Flood%20Monitoring%20And%20Alerting%20System/Connecting%20LM35%20Temperature%20Sensor.png?width=526&name=Connecting%20LM35%20Temperature%20Sensor.png" width="500" alt="Flood Monitoring Screenshot" />
   </a>
 </p>
 
@@ -45,27 +45,27 @@
 
 ### 😷 Temperature & Mask Detection System  
 <p align="center">
-  <a href="https://github.com/Amishasingh14/mask-detection" target="_blank">
-    <img src="https://github.com/Amishasingh14/Amishasingh14/assets/YOUR_MASK_GIF.gif" width="500" />
+  <a href="https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs11554-023-01353-0/MediaObjects/11554_2023_1353_Fig9_HTML.jpg" target="_blank">
+    <img src="https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs11554-023-01353-0/MediaObjects/11554_2023_1353_Fig9_HTML.jpg" width="500" alt="Mask Detection Screenshot" />
   </a>
 </p>
 
 - Thermal sensor + OpenCV for mask detection  
-- 🎯 *95% accuracy* with *<0.5s processing time*  
-- ✅ Enabled 1000+ safe entries  
+- 🎯 *95% accuracy* with *< 0.5 s processing time*  
+- ✅ Enabled *1,000+ safe entries*  
 
 ---
 
 ### 🎮 Simon Game (Web)  
 <p align="center">
-  <a href="https://github.com/Amishasingh14/simon-game" target="_blank">
-    <img src="https://github.com/Amishasingh14/Amishasingh14/assets/YOUR_SIMON_GIF.gif" width="500" />
+  <a href="https://user-images.githubusercontent.com/46281169/60651872-8a8c2480-9e60-11e9-9e6f-feeb76e6e159.PNG" target="_blank">
+    <img src="https://user-images.githubusercontent.com/46281169/60651872-8a8c2480-9e60-11e9-9e6f-feeb76e6e159.PNG" width="500" alt="Simon Game Screenshot" />
   </a>
 </p>
 
 - Browser-based memory game with sound & animations  
-- ⚡ Load time under *1s*  
-- 👥 Played 200+ times  
+- ⚡ Load time under *1 second*  
+- 👥 Played *200+ times*  
 
 ---
 
@@ -84,7 +84,7 @@
 ## 🏆 Problem Solving  
 
 - ✅ Solved *200+ coding problems* across platforms  
-- 💪 Strong fundamentals in *DSA, OS & DBMS*  
+- Strong fundamentals in *DSA, OS & DBMS*  
 
 <p align="center">
    <a href="https://leetcode.com/u/Singhamisha_123/">
